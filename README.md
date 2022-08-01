@@ -1,4 +1,4 @@
-## Olá, me chamo Thauã Magalhães ! 
+## Olá, me chamo Thauã Lucas ! 
 ### E esse é o meu perfil GitHub, seja bem vindo!!! 👋
 
 
