@@ -7,6 +7,7 @@
 - 📚 Técnico de informática pelo IFRN
 - 🍰 Tenho 18 anos
 - 🌎 Vivo na paraíba
+- 🔴 Faço umas lives estudando Desenvolvimento na [Twitch](https://www.twitch.tv/tataunoel)
 
 ### Ferramentas e Tecnologias
 
