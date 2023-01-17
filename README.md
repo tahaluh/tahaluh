@@ -3,9 +3,9 @@
 
 
 ### Sobre mim
-
+- ‍💻 Graduando em Engenharida de Computação
 - 📚 Técnico de informática pelo IFRN
-- 🍰 Tenho 18 anos
+- 🍰 Tenho 19 anos
 - 🌎 Vivo na paraíba
 - 🔴 Faço umas lives estudando Desenvolvimento na [Twitch](https://www.twitch.tv/tataunoel)
 
@@ -17,9 +17,11 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="30" height="30"/> Nest
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> Node
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> MySQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" height="30"/> PostgreSQL
+          
 
 ### Estou estudando
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
 ### Contatos:
 
