@@ -4,7 +4,7 @@
 
 ### Sobre mim
 - ‍💻 Graduando em Engenharida de Computação na UFPB
-- 📚 Técnico de informática pelo IFRN
+- 📚 Técnico em informática pelo IFRN
 - 🍰 Tenho 19 anos
 - 🌎 Vivo na paraíba
 - 🔴 Faço umas lives estudando Desenvolvimento na [Twitch](https://www.twitch.tv/tataunoel)
