@@ -50,7 +50,4 @@
 <a href="https://github.com/tahaluh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluh&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahaluh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
-          
-
-![](https://visitor-badge.glitch.me/badge?page_id=tahaluh&left_color=gray&right_color=blueviolet&left_text=Visitantes)
+</div>
