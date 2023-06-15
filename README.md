@@ -33,21 +33,18 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/> MongoDB
 
 
-### Estou estudando
+### Estudos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
 
-### Contatos:
+### Contatos
 
 <div>
 <a href = "mailto:thauanlucascpl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thaua-lucas/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-### Estatísticas
-
-<div>
-<a href="https://github.com/tahaluh">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluh&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahaluh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+### GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+<div >
+   <img align="center" height="180em" src="https://github-readme-stats-fork-tahaluh.vercel.app/api/top-langs/?username=tahaluh&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="center" height="180em" src="https://github-readme-stats-fork-tahaluh.vercel.app/api?username=tahaluh&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
