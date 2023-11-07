@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-- ‍💻 Graduando em Engenharida de Computação na UFPB
+- ‍💻 Graduando em Engenharida da Computação na UFPB
 - 📚 Técnico em informática pelo IFRN
 - 🍰 Tenho 19 anos
 - 🌎 Vivo na paraíba
