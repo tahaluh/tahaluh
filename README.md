@@ -4,7 +4,7 @@
 ### About me
 - ‍💻 Computer Engineering student at UFPB
 - 📚 Computer Technician from IFRN
-- 🍰 I'm 20 years old
+- 🍰 I'm 21 years old
 - 🌎 I live in Paraíba, Brazil
 - 🔴 I do live streams studying Development on [Twitch](https://www.twitch.tv/tataunoel)
 
