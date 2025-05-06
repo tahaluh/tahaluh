@@ -6,6 +6,7 @@
 - 🍰 **21 years old**  
 - 🌎 Living in **João Pessoa, PB, Brazil**  
 - 🔴 **Live streams** studying Development on [Twitch](https://www.twitch.tv/tataunoel)
+- 🐺 Member of [Tail UFPB](https://github.com/TailUFPB)
 
 ---
 
